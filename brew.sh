@@ -15,7 +15,9 @@ brew cask install microsoft-teams
 
 # Developer environment
 brew install git
-brew install npm
+brew install node
+brew install tree
+brew install sshfs
 brew install nginx
 brew install php
 brew install mysql@5.7
